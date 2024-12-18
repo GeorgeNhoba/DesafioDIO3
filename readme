@@ -1,0 +1,46 @@
+README
+Descrição do Projeto
+Este projeto é uma página web informativa sobre a Moxabustão, uma técnica terapêutica da Medicina Tradicional Chinesa. A página contém informações sobre a definição, etimologia, terminologia e a teoria e prática da moxabustão, além de links relacionados a temas relevantes.
+
+Estrutura do Projeto
+A estrutura do projeto é a seguinte:
+
+Insert Code
+Run
+Copy code
+/projeto
+│
+├── assets
+│   ├── css
+│   │   └── style.css        # Arquivo de estilo CSS
+│   └── images
+│       ├── logo.png        # Logotipo da página
+│       ├── moxa.jpg        # Imagem de um bastão de moxa
+│       └── moxa1.jpg       # Imagem da prática com cones de moxa
+│
+└── index.html               # Arquivo HTML principal
+Tecnologias Utilizadas
+HTML5
+CSS3
+Como Executar o Projeto
+Clone o repositório:
+
+bash
+Insert Code
+Run
+Copy code
+git clone https://seu-repositorio-url.git
+Navegue até o diretório do projeto:
+
+bash
+Insert Code
+Run
+Copy code
+cd projeto
+Abra o arquivo index.html em um navegador:
+
+Você pode abrir o arquivo diretamente no navegador ou usar um servidor local para visualizar a página.
+Funcionalidades
+Informações detalhadas sobre a Moxabustão.
+Seções com links para artigos relacionados.
+Navegação interna através de âncoras.
